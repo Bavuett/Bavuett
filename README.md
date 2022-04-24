@@ -1,6 +1,12 @@
-# Making new things.
+### 👋 Hi!
+**My name is Lorenzo**, a 17-years-old Computer Science student based in **Pescara, Italy**.
 
-### Who I am.
-I'm Lorenzo, an Italian ICT student who is currently 17-years-old and likes to do front-end development. I enjoy creating great user experiences with coding, and I am currently attending IIS Volta Pescara.
+I have always loved Computer Science and technology in general, and this is the reason why I began studying it.
+In my opinion, the best way to learn is to have new experiences. For this reason, I created lots of projects with different tools and languages.
 
-[Read more about me on Medium.](https://devlbd.medium.com/time-to-start-writing-on-medium-34151472112c)
+The ones I am most proud of are: 
+ - [Bricks Crusher](https://github.com/DevLBD/Breakout-Java): Breakout clone written in Java;
+ - [TrisSQL](https://github.com/DevLBD/TrisSQL): TicTacToe which uses an SQL Database to choose its moves;
+ - [void-rice](https://github.com/DevLBD/void-rice): my (first) Linux Rice I created on my computer which runs Void Linux.
+
+Other projects you may want to see are [available here](https://github.com/DevLBD?tab=repositories).
