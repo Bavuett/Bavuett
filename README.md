@@ -12,5 +12,5 @@ The ones I am most proud of are:
 Other projects you may want to see are [available here](https://github.com/DevLBD?tab=repositories).
 
 <div align="center">
-![DevLBD GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DevLBD&langs_count=8&layout=compact&theme=synthwave)
+ [![DevLBD GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DevLBD&langs_count=8&layout=compact&theme=synthwave)
 </div>
