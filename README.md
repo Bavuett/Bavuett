@@ -1,4 +1,2 @@
 ### 👋 Hi!
-**My name is Lorenzo**, a 18-years-old Computer Science student based in **Pescara, Italy**.
-
-I am passionate about Open Source software and I like to contribute to the projects I rely on daily, so feel free to @ me if you need some help! 😀
+**My name is Lorenzo**, a 19-years-old Computer Science student passionate about Open Source and Reverse Engineering.
